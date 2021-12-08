@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    margin: auto;
+    max-width: 800px;
+    padding: 0 18px 0 18px;
+}
+
+hr {
+    background-color: black;
+    border: none;
+    height: 1px;
+    margin: 2.0rem 0 2.0rem 0;
+}
+
+#page-header {
+    text-align: center;
+}
+
+#page-header h1 {
+    background-color: rgb(255, 210, 0);
+    border-radius: 1.0rem;
+    box-shadow: 0.2rem 0.2rem 0.35rem black;
+    color: rgb(247, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1.0rem;
+    text-shadow: 1px 1px 2px black;
+}
+
+#page-footer {
+    text-align: center;
+}
+
+#concept-index {
+    line-height: 1.8rem;
+}
+
+.clip-listing img {
+    float: left;
+    margin-right: 12px;
+    height: 60px;
+    width: 60px;
+}
+
+.clip-listing h3 {
+    margin: 0;
+}
+
+.clip-listing p {
+    font-size: 80%;
+}
