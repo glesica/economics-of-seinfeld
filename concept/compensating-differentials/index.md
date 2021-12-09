@@ -6,7 +6,7 @@ Compensating differentials represent a wage premium for unpleasant aspects of a 
 <div class="clip-listing">
 <img src="media/icons/bris.jpg" alt="The Bris icon">
 
-### [The Bris](/clip/43/)
+### [The Bris](../clip/43/)
 
 [compensating differentials](/concept/compensating-differentials/) | [labor market](/concept/labor-market/)
 </div>

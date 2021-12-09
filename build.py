@@ -56,11 +56,11 @@ def load_clip_contributor(cursor, credit_id):
         return {}
 
 
-def generate_clip_listing(clip, write):
+def generate_clip_listing(clip, write, base=""):
     write('<div class="clip-listing">')
     write(f"<img src=\"{clip['icon']}\" alt=\"{clip['name']} icon\">")
     write("")
-    write(f"### [{clip['name']}](/clip/{clip['id']}/)\n")
+    write(f"### [{clip['name']}]({base}/clip/{clip['id']}/)\n")
     
     tag_data = []
     for tag in clip["tags"]:
@@ -132,7 +132,7 @@ def generate_concept_page(concept):
     write("<hr>")
 
     for clip in concept["clips"]:
-        generate_clip_listing(clip, write)
+        generate_clip_listing(clip, write, "..")
     
     md_file.close()
 
@@ -161,7 +161,7 @@ def generate_index_page(concepts):
     for concept in sorted_concepts:
         name = concept["name"]
         slug = concept["slug"]
-        links.append(f'<a href="/concept/{slug}">{name}</a>')
+        links.append(f'<a href="../concept/{slug}">{name}</a>')
     write('<div id="concept-index">')
     write(" | ".join(links))
     write('</div>')

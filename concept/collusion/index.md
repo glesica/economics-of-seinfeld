@@ -6,7 +6,7 @@ Collusion refers to acts of cooperation or collaboration among rival entities. I
 <div class="clip-listing">
 <img src="media/icons/foundation_clip2.jpg" alt="The Foundation icon">
 
-### [The Foundation](/clip/79/)
+### [The Foundation](../clip/79/)
 
 [cartel](/concept/cartel/) | [collusion](/concept/collusion/)
 </div>

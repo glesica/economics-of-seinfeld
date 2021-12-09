@@ -6,7 +6,7 @@ A zero-sum game describes a situation in which a participant's gain or loss is e
 <div class="clip-listing">
 <img src="media/icons/chaperone.jpg" alt="The Chaperone icon">
 
-### [The Chaperone](/clip/55/)
+### [The Chaperone](../clip/55/)
 
 [functions of markets](/concept/functions-of-markets/) | [scarcity](/concept/scarcity/) | [zero-sum game](/concept/zero-sum-game/)
 </div>

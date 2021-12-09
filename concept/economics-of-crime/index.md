@@ -6,7 +6,7 @@ The economics of crime is a field of study that uses economic theory, tools, and
 <div class="clip-listing">
 <img src="media/icons/baby_shower.jpg" alt="The Baby Shower icon">
 
-### [The Baby Shower](/clip/7/)
+### [The Baby Shower](../clip/7/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [economics of crime](/concept/economics-of-crime/) | [incentives](/concept/incentives/) | [thinking at the margin](/concept/thinking-at-the-margin/)
 </div>

@@ -6,7 +6,7 @@ Time inconsistency describes a situation where a decision-maker's preferences ch
 <div class="clip-listing">
 <img src="media/icons/glasses_2.jpg" alt="The Glasses icon">
 
-### [The Glasses](/clip/102/)
+### [The Glasses](../clip/102/)
 
 [dual-self models](/concept/dual-self-models/) | [time inconsistency](/concept/time-inconsistency/)
 </div>

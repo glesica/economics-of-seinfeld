@@ -6,7 +6,7 @@ Moral hazard occurs when a party insulated from risk behaves differently than it
 <div class="clip-listing">
 <img src="media/icons/alternate_side.jpg" alt="The Alternate Side icon">
 
-### [The Alternate Side](/clip/23/)
+### [The Alternate Side](../clip/23/)
 
 [imperfect information](/concept/imperfect-information/) | [moral hazard](/concept/moral-hazard/)
 </div>
@@ -14,7 +14,7 @@ Moral hazard occurs when a party insulated from risk behaves differently than it
 <div class="clip-listing">
 <img src="media/icons/fusilli_jerry_clip2.jpg" alt="The Fusilli Jerry icon">
 
-### [The Fusilli Jerry](/clip/63/)
+### [The Fusilli Jerry](../clip/63/)
 
 [asymmetric information](/concept/asymmetric-information/) | [moral hazard](/concept/moral-hazard/)
 </div>
@@ -22,7 +22,7 @@ Moral hazard occurs when a party insulated from risk behaves differently than it
 <div class="clip-listing">
 <img src="media/icons/smelly_car.jpg" alt="The Smelly Car icon">
 
-### [The Smelly Car](/clip/36/)
+### [The Smelly Car](../clip/36/)
 
 [Coase theorem](/concept/coase-theorem/) | [externality](/concept/externality/) | [moral hazard](/concept/moral-hazard/)
 </div>

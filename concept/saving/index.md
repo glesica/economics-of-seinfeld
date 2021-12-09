@@ -6,7 +6,7 @@ Saving is income not spent, or deferred consumption. Methods of saving include p
 <div class="clip-listing">
 <img src="media/icons/blood.jpg" alt="The Blood icon">
 
-### [The Blood](/clip/87/)
+### [The Blood](../clip/87/)
 
 [financial intermediation](/concept/financial-intermediation/) | [saving](/concept/saving/)
 </div>

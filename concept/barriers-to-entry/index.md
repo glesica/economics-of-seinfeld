@@ -6,7 +6,7 @@ Barriers to entry are conditions or circumstances that make it very difficult or
 <div class="clip-listing">
 <img src="media/icons/maestro.jpg" alt="The Maestro icon">
 
-### [The Maestro](/clip/66/)
+### [The Maestro](../clip/66/)
 
 [barriers to entry](/concept/barriers-to-entry/) | [monopoly power](/concept/monopoly-power/)
 </div>
@@ -14,7 +14,7 @@ Barriers to entry are conditions or circumstances that make it very difficult or
 <div class="clip-listing">
 <img src="media/icons/soup_nazi.jpg" alt="The Soup Nazi icon">
 
-### [The Soup Nazi](/clip/67/)
+### [The Soup Nazi](../clip/67/)
 
 [barriers to entry](/concept/barriers-to-entry/) | [monopoly power](/concept/monopoly-power/)
 </div>

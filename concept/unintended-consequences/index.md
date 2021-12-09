@@ -6,7 +6,7 @@ Unintended consequences are situations where an action results in an outcome tha
 <div class="clip-listing">
 <img src="media/icons/cheever_letters_clip1.jpg" alt="The Cheever Letters icon">
 
-### [The Cheever Letters](/clip/30/)
+### [The Cheever Letters](../clip/30/)
 
 [unintended consequences](/concept/unintended-consequences/)
 </div>
@@ -14,7 +14,7 @@ Unintended consequences are situations where an action results in an outcome tha
 <div class="clip-listing">
 <img src="media/icons/seinfeld_episodejuniormint.jpg" alt="The Junior Mint icon">
 
-### [The Junior Mint](/clip/96/)
+### [The Junior Mint](../clip/96/)
 
 [externality](/concept/externality/) | [unintended consequences](/concept/unintended-consequences/)
 </div>
