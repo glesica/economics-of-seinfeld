@@ -6,7 +6,7 @@
 # Configuration
 # -------------
 
-SITE_TITLE := webpage
+SITE_TITLE := the economics of seinfeld
 FAVICON := media/favicon.png
 
 INDEX := index.md
