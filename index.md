@@ -15,6 +15,8 @@ We hope that you find these clips valuable and would appreciate your feedback.
 
 ### The Book!
 
+<img id="book-cover" src="media/book-cover.jpg" alt="Book Cover">
+
 *The Economics of Seinfeld* is a book now, check it out on
 [Amazon](https://www.amazon.com/Seinfeld-Economics-Routledge-Popular-Culture-dp-0367222930/dp/0367222930/).
 
@@ -22,7 +24,7 @@ Written in a light-hearted and conversational style, this book is a must-read
 for fans of Seinfeld and anyone who wants to learn something from "the show
 about nothing." It is an ideal supplement for all economics classes.
 
-<hr>
+<hr style="clear: both;">
 
 
 <div class="clip-listing">

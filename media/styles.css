@@ -17,6 +17,13 @@ hr {
     margin: 2.0rem 0 2.0rem 0;
 }
 
+#book-cover {
+    float: left;
+    margin-bottom: 2.0rem;
+    margin-right: 1.0rem;
+    max-height: 300px;
+}
+
 #page-header {
     text-align: center;
 }

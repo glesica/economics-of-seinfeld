@@ -74,7 +74,7 @@ favicon.ico:
 %.html: %.md ${HEADER} ${PREFIX} ${SUFFIX} ${STYLES}
 	@echo "building $<"
 	@${PANDOC} -M pagetitle:"/$(@D) ${SITE_TITLE}" -o "$@" "$<"
-	@ln -fs "$$(realpath --relative-to=$(@D) media)" "$$(dirname $@)" || true
+	@ln -fs "$$(realpath --relative-to=$(@D) media)" "$$(dirname $@)" 2> /dev/null || true
 
 includes/%:
 	@echo "creating $@"
