@@ -6,7 +6,7 @@ Complements are goods that are consumed together. When two goods are complements
 <div class="clip-listing">
 <img src="media/icons/muffin_tops_clip1__.jpg" alt="The Muffin Tops icon">
 
-### [The Muffin Tops](../clip/86/)
+### [The Muffin Tops](../../clip/86/)
 
 [bads](/concept/bads/) | [complements](/concept/complements/) | [substitutes](/concept/substitutes/)
 </div>
@@ -14,7 +14,7 @@ Complements are goods that are consumed together. When two goods are complements
 <div class="clip-listing">
 <img src="media/icons/switch.jpg" alt="The Switch icon">
 
-### [The Switch](../clip/60/)
+### [The Switch](../../clip/60/)
 
 [complements](/concept/complements/) | [substitutes](/concept/substitutes/)
 </div>

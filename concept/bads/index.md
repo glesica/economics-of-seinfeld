@@ -6,7 +6,7 @@ In economics, a bad is the opposite of a good. "Bads" can be thought of as goods
 <div class="clip-listing">
 <img src="media/icons/muffin_tops_clip1__.jpg" alt="The Muffin Tops icon">
 
-### [The Muffin Tops](../clip/86/)
+### [The Muffin Tops](../../clip/86/)
 
 [bads](/concept/bads/) | [complements](/concept/complements/) | [substitutes](/concept/substitutes/)
 </div>

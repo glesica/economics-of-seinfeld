@@ -6,7 +6,7 @@ A strategic move is an action taken by a player outside the defined actions of t
 <div class="clip-listing">
 <img src="media/icons/invitations.jpg" alt="The Invitations icon">
 
-### [The Invitations](../clip/77/)
+### [The Invitations](../../clip/77/)
 
 [credible threat](/concept/credible-threat/) | [signaling](/concept/signaling/) | [strategic move](/concept/strategic-move/)
 </div>

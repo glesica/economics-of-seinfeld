@@ -6,7 +6,7 @@ A normal good is a good that a person will purchase more of as income rises. Mos
 <div class="clip-listing">
 <img src="media/icons/robbery.jpg" alt="The Robbery icon">
 
-### [The Robbery](../clip/3/)
+### [The Robbery](../../clip/3/)
 
 [inferior good](/concept/inferior-good/) | [normal good](/concept/normal-good/)
 </div>

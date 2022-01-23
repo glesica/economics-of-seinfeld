@@ -6,7 +6,7 @@ The rate of time preference pertains to how large a premium a consumer places on
 <div class="clip-listing">
 <img src="media/icons/contest.jpg" alt="The Contest icon">
 
-### [The Contest](../clip/34/)
+### [The Contest](../../clip/34/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [rate of time preference](/concept/rate-of-time-preference/)
 </div>

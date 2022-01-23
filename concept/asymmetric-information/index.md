@@ -6,7 +6,7 @@ Asymmetric information occurs when one party has more or better information than
 <div class="clip-listing">
 <img src="media/icons/fusilli_jerry_clip2.jpg" alt="The Fusilli Jerry icon">
 
-### [The Fusilli Jerry](../clip/63/)
+### [The Fusilli Jerry](../../clip/63/)
 
 [asymmetric information](/concept/asymmetric-information/) | [moral hazard](/concept/moral-hazard/)
 </div>
@@ -14,7 +14,7 @@ Asymmetric information occurs when one party has more or better information than
 <div class="clip-listing">
 <img src="media/icons/pitch_ticket_clip1.jpg" alt="The Pitch icon">
 
-### [The Pitch](../clip/28/)
+### [The Pitch](../../clip/28/)
 
 [asymmetric information](/concept/asymmetric-information/)
 </div>
@@ -22,7 +22,7 @@ Asymmetric information occurs when one party has more or better information than
 <div class="clip-listing">
 <img src="media/icons/mango_.jpg" alt="The Mango icon">
 
-### [The Mango](../clip/97/)
+### [The Mango](../../clip/97/)
 
 [asymmetric information](/concept/asymmetric-information/) | [signaling](/concept/signaling/)
 </div>

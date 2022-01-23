@@ -6,7 +6,7 @@ Unlimited wants essentially mean that people never get enough, that there is alw
 <div class="clip-listing">
 <img src="media/icons/keys.jpg" alt="The Keys icon">
 
-### [The Keys](../clip/27/)
+### [The Keys](../../clip/27/)
 
 [unlimited wants](/concept/unlimited-wants/)
 </div>

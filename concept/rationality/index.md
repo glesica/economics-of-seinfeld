@@ -6,7 +6,7 @@ A rational individual will always choose actions for which the expected benefits
 <div class="clip-listing">
 <img src="media/icons/parking_garage.jpg" alt="The Parking Garage icon">
 
-### [The Parking Garage](../clip/19/)
+### [The Parking Garage](../../clip/19/)
 
 [competition](/concept/competition_1/) | [cost-benefit analysis](/concept/cost-benefit-analysis/) | [rationality](/concept/rationality/)
 </div>

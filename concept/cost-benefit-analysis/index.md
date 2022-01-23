@@ -6,7 +6,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/baby_shower.jpg" alt="The Baby Shower icon">
 
-### [The Baby Shower](../clip/7/)
+### [The Baby Shower](../../clip/7/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [economics of crime](/concept/economics-of-crime/) | [incentives](/concept/incentives/) | [thinking at the margin](/concept/thinking-at-the-margin/)
 </div>
@@ -14,7 +14,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/barber_clip2.jpg" alt="The Barber icon">
 
-### [The Barber](../clip/45/)
+### [The Barber](../../clip/45/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [dominant strategy](/concept/dominant-strategy/) | [game theory](/concept/game-theory/)
 </div>
@@ -22,7 +22,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/chicken_roaster.jpg" alt="The Chicken Roaster icon">
 
-### [The Chicken Roaster](../clip/84/)
+### [The Chicken Roaster](../../clip/84/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [externality](/concept/externality/)
 </div>
@@ -30,7 +30,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/contest.jpg" alt="The Contest icon">
 
-### [The Contest](../clip/34/)
+### [The Contest](../../clip/34/)
 
 [cost-benefit analysis](/concept/cost-benefit-analysis/) | [rate of time preference](/concept/rate-of-time-preference/)
 </div>
@@ -38,7 +38,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/parking_garage.jpg" alt="The Parking Garage icon">
 
-### [The Parking Garage](../clip/19/)
+### [The Parking Garage](../../clip/19/)
 
 [competition](/concept/competition_1/) | [cost-benefit analysis](/concept/cost-benefit-analysis/) | [rationality](/concept/rationality/)
 </div>
@@ -46,7 +46,7 @@ Cost-benefit analysis involves, whether explicitly or implicitly, weighing the t
 <div class="clip-listing">
 <img src="media/icons/5_The_Parking_Garage.jpg" alt="The Parking Garage icon">
 
-### [The Parking Garage](../clip/95/)
+### [The Parking Garage](../../clip/95/)
 
 [common resource](/concept/common-resource/) | [cost-benefit analysis](/concept/cost-benefit-analysis/) | [thinking at the margin](/concept/thinking-at-the-margin/)
 </div>

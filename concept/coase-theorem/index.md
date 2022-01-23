@@ -6,7 +6,7 @@ The Coase theorem states that, when trade in an externality is possible and ther
 <div class="clip-listing">
 <img src="media/icons/stakeout.jpg" alt="The Stakeout icon">
 
-### [The Stakeout](../clip/2/)
+### [The Stakeout](../../clip/2/)
 
 [Coase theorem](/concept/coase-theorem/) | [externality](/concept/externality/)
 </div>
@@ -14,7 +14,7 @@ The Coase theorem states that, when trade in an externality is possible and ther
 <div class="clip-listing">
 <img src="media/icons/smelly_car.jpg" alt="The Smelly Car icon">
 
-### [The Smelly Car](../clip/36/)
+### [The Smelly Car](../../clip/36/)
 
 [Coase theorem](/concept/coase-theorem/) | [externality](/concept/externality/) | [moral hazard](/concept/moral-hazard/)
 </div>

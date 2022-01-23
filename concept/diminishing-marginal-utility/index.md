@@ -6,7 +6,7 @@ The principle of diminishing marginal utility says that, as an individual consum
 <div class="clip-listing">
 <img src="media/icons/stock_tip_clip2.jpg" alt="The Stock Tip icon">
 
-### [The Stock Tip](../clip/5/)
+### [The Stock Tip](../../clip/5/)
 
 [diminishing marginal utility](/concept/diminishing-marginal-utility/)
 </div>
@@ -14,7 +14,7 @@ The principle of diminishing marginal utility says that, as an individual consum
 <div class="clip-listing">
 <img src="media/icons/stock_tip_clip2_.jpg" alt="The Stock Tip icon">
 
-### [The Stock Tip](../clip/41/)
+### [The Stock Tip](../../clip/41/)
 
 [diminishing marginal utility](/concept/diminishing-marginal-utility/)
 </div>

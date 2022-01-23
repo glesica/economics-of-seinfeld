@@ -6,7 +6,7 @@ Dual-self models describe behavior as a struggle between "cognitive" and "impuls
 <div class="clip-listing">
 <img src="media/icons/glasses_2.jpg" alt="The Glasses icon">
 
-### [The Glasses](../clip/102/)
+### [The Glasses](../../clip/102/)
 
 [dual-self models](/concept/dual-self-models/) | [time inconsistency](/concept/time-inconsistency/)
 </div>

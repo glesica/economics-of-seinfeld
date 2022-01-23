@@ -6,7 +6,7 @@ Collective bargaining involves negotiations between an employer and labor union 
 <div class="clip-listing">
 <img src="media/icons/strike_clip2.jpg" alt="The Strike icon">
 
-### [The Strike](../clip/89/)
+### [The Strike](../../clip/89/)
 
 [collective bargaining](/concept/collective-bargaining/) | [labor union](/concept/labor-union/)
 </div>

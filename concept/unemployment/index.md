@@ -6,7 +6,7 @@ Unemployment occurs when an individual is not working and is actively seeking em
 <div class="clip-listing">
 <img src="media/icons/revenge.jpg" alt="The Revenge icon">
 
-### [The Revenge](../clip/39/)
+### [The Revenge](../../clip/39/)
 
 [unemployment](/concept/unemployment/)
 </div>

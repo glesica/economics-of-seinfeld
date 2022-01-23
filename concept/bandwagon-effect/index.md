@@ -6,7 +6,7 @@ The bandwagon effect is the observation that people often do (or believe) things
 <div class="clip-listing">
 <img src="media/icons/pledge_drive_clip2.jpg" alt="The Pledge Drive icon">
 
-### [The Pledge Drive](../clip/57/)
+### [The Pledge Drive](../../clip/57/)
 
 [bandwagon effect](/concept/bandwagon-effect/)
 </div>

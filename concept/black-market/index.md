@@ -6,7 +6,7 @@ A black market is one in which certain goods or services are routinely traded in
 <div class="clip-listing">
 <img src="media/icons/cheever_letters_clip2.jpg" alt="The Cheever Letters icon">
 
-### [The Cheever Letters](../clip/31/)
+### [The Cheever Letters](../../clip/31/)
 
 [black market](/concept/black-market/) | [gains from exchange](/concept/gains-from-exchange/)
 </div>
@@ -14,7 +14,7 @@ A black market is one in which certain goods or services are routinely traded in
 <div class="clip-listing">
 <img src="media/icons/opera.jpg" alt="The Opera icon">
 
-### [The Opera](../clip/33/)
+### [The Opera](../../clip/33/)
 
 [black market](/concept/black-market/) | [gains from exchange](/concept/gains-from-exchange/)
 </div>
@@ -22,7 +22,7 @@ A black market is one in which certain goods or services are routinely traded in
 <div class="clip-listing">
 <img src="media/icons/showerhead_clip2.jpg" alt="The Showerhead icon">
 
-### [The Showerhead](../clip/72/)
+### [The Showerhead](../../clip/72/)
 
 [black market](/concept/black-market/) | [regulation](/concept/regulation/)
 </div>

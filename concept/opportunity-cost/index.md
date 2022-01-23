@@ -6,7 +6,7 @@ Opportunity cost is the cost of the next-best alternative. The notion of opportu
 <div class="clip-listing">
 <img src="media/icons/chinese_restaurant_clip1.jpg" alt="The Chinese Restaurant icon">
 
-### [The Chinese Restaurant](../clip/9/)
+### [The Chinese Restaurant](../../clip/9/)
 
 [opportunity cost](/concept/opportunity-cost/)
 </div>
@@ -14,7 +14,7 @@ Opportunity cost is the cost of the next-best alternative. The notion of opportu
 <div class="clip-listing">
 <img src="media/icons/chinese_restaurant_clip2___.jpg" alt="The Chinese Restaurant icon">
 
-### [The Chinese Restaurant](../clip/10/)
+### [The Chinese Restaurant](../../clip/10/)
 
 [opportunity cost](/concept/opportunity-cost/) | [rationing mechanisms](/concept/rationing-mechanisms/)
 </div>
@@ -22,7 +22,7 @@ Opportunity cost is the cost of the next-best alternative. The notion of opportu
 <div class="clip-listing">
 <img src="media/icons/deal_clip1.jpg" alt="The Deal icon">
 
-### [The Deal](../clip/15/)
+### [The Deal](../../clip/15/)
 
 [opportunity cost](/concept/opportunity-cost/) | [trade-off](/concept/trade-off/)
 </div>
@@ -30,7 +30,7 @@ Opportunity cost is the cost of the next-best alternative. The notion of opportu
 <div class="clip-listing">
 <img src="media/icons/sponge_clip1.jpg" alt="The Sponge icon">
 
-### [The Sponge](../clip/68/)
+### [The Sponge](../../clip/68/)
 
 [opportunity cost](/concept/opportunity-cost/) | [scarcity](/concept/scarcity/) | [trade-off](/concept/trade-off/)
 </div>

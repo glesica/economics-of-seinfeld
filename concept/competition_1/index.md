@@ -6,7 +6,7 @@ Competition is the allocation of productive resources to their most highly value
 <div class="clip-listing">
 <img src="media/icons/barber_clip1.jpg" alt="The Barber icon">
 
-### [The Barber](../clip/44/)
+### [The Barber](../../clip/44/)
 
 [competition](/concept/competition_1/)
 </div>
@@ -14,7 +14,7 @@ Competition is the allocation of productive resources to their most highly value
 <div class="clip-listing">
 <img src="media/icons/parking_garage.jpg" alt="The Parking Garage icon">
 
-### [The Parking Garage](../clip/19/)
+### [The Parking Garage](../../clip/19/)
 
 [competition](/concept/competition_1/) | [cost-benefit analysis](/concept/cost-benefit-analysis/) | [rationality](/concept/rationality/)
 </div>

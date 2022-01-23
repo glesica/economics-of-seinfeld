@@ -6,7 +6,7 @@ The deadweight loss of gift-giving is the loss of efficiency that occurs when th
 <div class="clip-listing">
 <img src="media/icons/deal_clip2.jpg" alt="The Deal icon">
 
-### [The Deal](../clip/16/)
+### [The Deal](../../clip/16/)
 
 [deadweight loss of gift-giving](/concept/deadweight-loss-of-gift-giving/) | [signaling](/concept/signaling/) | [utility](/concept/utility/)
 </div>

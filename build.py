@@ -132,7 +132,7 @@ def generate_concept_page(concept):
     write("<hr>")
 
     for clip in concept["clips"]:
-        generate_clip_listing(clip, write, "..")
+        generate_clip_listing(clip, write, "../..")
     
     md_file.close()
 

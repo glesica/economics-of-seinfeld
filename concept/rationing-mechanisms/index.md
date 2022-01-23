@@ -6,7 +6,7 @@ A rationing mechanism is a system for choosing who gets how many goods during a 
 <div class="clip-listing">
 <img src="media/icons/apartment_clip1.jpg" alt="The Apartment icon">
 
-### [The Apartment](../clip/12/)
+### [The Apartment](../../clip/12/)
 
 [price ceiling](/concept/price-ceiling/) | [rationing mechanisms](/concept/rationing-mechanisms/)
 </div>
@@ -14,7 +14,7 @@ A rationing mechanism is a system for choosing who gets how many goods during a 
 <div class="clip-listing">
 <img src="media/icons/chinese_restaurant_clip2___.jpg" alt="The Chinese Restaurant icon">
 
-### [The Chinese Restaurant](../clip/10/)
+### [The Chinese Restaurant](../../clip/10/)
 
 [opportunity cost](/concept/opportunity-cost/) | [rationing mechanisms](/concept/rationing-mechanisms/)
 </div>
@@ -22,7 +22,7 @@ A rationing mechanism is a system for choosing who gets how many goods during a 
 <div class="clip-listing">
 <img src="media/icons/chinese_restaurant_clip2_.jpg" alt="The Chinese Restaurant icon">
 
-### [The Chinese Restaurant](../clip/11/)
+### [The Chinese Restaurant](../../clip/11/)
 
 [efficiency](/concept/efficiency/) | [rationing mechanisms](/concept/rationing-mechanisms/)
 </div>
@@ -30,7 +30,7 @@ A rationing mechanism is a system for choosing who gets how many goods during a 
 <div class="clip-listing">
 <img src="media/icons/pony_remark.jpg" alt="The Pony Remark icon">
 
-### [The Pony Remark](../clip/6/)
+### [The Pony Remark](../../clip/6/)
 
 [price ceiling](/concept/price-ceiling/) | [rationing mechanisms](/concept/rationing-mechanisms/)
 </div>

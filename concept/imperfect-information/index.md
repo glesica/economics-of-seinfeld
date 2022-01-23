@@ -6,7 +6,7 @@ Imperfect information is a situation in which the parties to a transaction have 
 <div class="clip-listing">
 <img src="media/icons/alternate_side.jpg" alt="The Alternate Side icon">
 
-### [The Alternate Side](../clip/23/)
+### [The Alternate Side](../../clip/23/)
 
 [imperfect information](/concept/imperfect-information/) | [moral hazard](/concept/moral-hazard/)
 </div>

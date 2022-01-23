@@ -6,7 +6,7 @@ In game theory, changes in payoffs imply changes in the motivations of players. 
 <div class="clip-listing">
 <img src="media/icons/finale.jpg" alt="The Finale icon">
 
-### [The Finale](../clip/90/)
+### [The Finale](../../clip/90/)
 
 [changes in payoffs](/concept/changes-in-payoffs/) | [game theory](/concept/game-theory/) | [incentives](/concept/incentives/)
 </div>

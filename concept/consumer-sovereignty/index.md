@@ -6,7 +6,7 @@ Consumer sovereignty refers to the rule of purchasers in markets as to productio
 <div class="clip-listing">
 <img src="media/icons/mango.jpg" alt="The Mango icon">
 
-### [The Mango](../clip/37/)
+### [The Mango](../../clip/37/)
 
 [consumer sovereignty](/concept/consumer-sovereignty/)
 </div>

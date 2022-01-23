@@ -6,7 +6,7 @@ Scarcity is a condition where there is less of something available than at least
 <div class="clip-listing">
 <img src="media/icons/chaperone.jpg" alt="The Chaperone icon">
 
-### [The Chaperone](../clip/55/)
+### [The Chaperone](../../clip/55/)
 
 [functions of markets](/concept/functions-of-markets/) | [scarcity](/concept/scarcity/) | [zero-sum game](/concept/zero-sum-game/)
 </div>
@@ -14,7 +14,7 @@ Scarcity is a condition where there is less of something available than at least
 <div class="clip-listing">
 <img src="media/icons/sponge_clip1.jpg" alt="The Sponge icon">
 
-### [The Sponge](../clip/68/)
+### [The Sponge](../../clip/68/)
 
 [opportunity cost](/concept/opportunity-cost/) | [scarcity](/concept/scarcity/) | [trade-off](/concept/trade-off/)
 </div>
@@ -22,7 +22,7 @@ Scarcity is a condition where there is less of something available than at least
 <div class="clip-listing">
 <img src="media/icons/stall.jpg" alt="The Stall icon">
 
-### [The Stall](../clip/47/)
+### [The Stall](../../clip/47/)
 
 [scarcity](/concept/scarcity/)
 </div>
